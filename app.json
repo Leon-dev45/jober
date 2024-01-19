@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "tauseef_211238",
+    "slug": "tauseef_211238"
+  }
+}
