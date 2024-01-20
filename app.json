@@ -12,11 +12,6 @@
     },
     "name": "Jober",
     "slug": "Jober",
-    "extra": {
-      "eas": {
-        "projectId": "f99188a6-0b66-4838-b49c-34089ffacc55"
-      }
-    },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
